@@ -1,0 +1,10 @@
+[
+  {
+    "protocol": "http",
+    "domain-suffix": "www.royalroad.com"
+  },
+  {
+    "protocol": "http",
+    "domain-suffix": "royalroad.com"
+  }
+]

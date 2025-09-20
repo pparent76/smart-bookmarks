@@ -1,0 +1,16 @@
+{
+    "name": "ubdious-port.chromiumos-guy",
+    "description": "An unofficial webapp for the YouTube frontend Invidious ported to Focal.",
+    "architecture": "@CLICK_ARCH@",
+    "title": "UBdious-port",
+    "hooks": {
+        "ubdious-port": {
+            "apparmor": "ubdious-port.apparmor",
+            "desktop":  "ubdious-port.desktop",
+            "urls": "ubdious-port.url-dispatcher"
+        }
+    },
+    "version": "1.2.1",
+    "maintainer": "ChromiumOS-Guy <email@domain.org>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}

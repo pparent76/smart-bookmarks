@@ -1,0 +1,16 @@
+{
+    "name": "royalroad-unofficial.chromiumos-guy",
+    "description": "A Smart (unofficial) RoyalRoad Bookmark.",
+    "architecture": "all",
+    "title": "RoyalRoad",
+    "hooks": {
+        "royalroad": {
+            "apparmor": "royalroad.apparmor",
+            "desktop":  "royalroad.desktop",
+            "urls": "royalroad.url-dispatcher"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "ChromiumOS-Guy <email@domain.org>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}

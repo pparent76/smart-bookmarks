@@ -1,0 +1,18 @@
+{
+    "name": "waze-unofficial.chromiumos-guy",
+    "description": "A Smart (unofficial) Waze Bookmark.",
+    "architecture": "all",
+    "title": "Waze",
+    "hooks": {
+        "royalroad": {
+            "apparmor": "waze.apparmor",
+            "desktop":  "waze.desktop",
+            "urls": "waze.url-dispatcher",
+            "content-hub": "waze.contenthub"
+
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "ChromiumOS-Guy <email@domain.org>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}

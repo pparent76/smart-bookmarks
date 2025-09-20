@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=UBdious
+Exec=launch.sh %u
+Icon=assets/logo.svg
+Terminal=false
+Type=Application
+X-Lomiri-Touch=true

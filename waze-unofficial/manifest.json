@@ -4,7 +4,7 @@
     "architecture": "all",
     "title": "Waze",
     "hooks": {
-        "royalroad": {
+        "waze-unofficial": {
             "apparmor": "waze.apparmor",
             "desktop":  "waze.desktop",
             "urls": "waze.url-dispatcher",

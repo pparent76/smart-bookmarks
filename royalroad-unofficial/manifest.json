@@ -4,7 +4,7 @@
     "architecture": "all",
     "title": "RoyalRoad",
     "hooks": {
-        "royalroad": {
+        "royalroad-unofficial": {
             "apparmor": "royalroad.apparmor",
             "desktop":  "royalroad.desktop",
             "urls": "royalroad.url-dispatcher"

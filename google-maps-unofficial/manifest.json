@@ -4,7 +4,7 @@
     "architecture": "all",
     "title": "Google Maps",
     "hooks": {
-        "royalroad": {
+        "google-maps-unofficial": {
             "apparmor": "google-maps.apparmor",
             "desktop":  "google-maps.desktop",
             "urls": "google-maps.url-dispatcher",

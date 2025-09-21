@@ -10,7 +10,7 @@
             "urls": "royalroad.url-dispatcher"
         }
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "maintainer": "ChromiumOS-Guy <email@domain.org>",
     "framework" : "@CLICK_FRAMEWORK@"
 }

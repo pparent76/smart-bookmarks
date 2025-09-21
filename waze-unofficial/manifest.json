@@ -12,7 +12,7 @@
 
         }
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "maintainer": "ChromiumOS-Guy <email@domain.org>",
     "framework" : "@CLICK_FRAMEWORK@"
 }

@@ -7,5 +7,5 @@
         "location",
         "keep-display-on"
     ],
-    "policy_version": 20.04
+    "policy_version": "@APPARMOR_POLICY@"
 }
